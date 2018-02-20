@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Purcellville Fire Department Duty Check</string>
+
+    <string-array name="items">
+        <item>Driver Compartment</item>
+        <item>Street side O2 Compartment</item>
+        <item>Street side electrical</item>
+        <item>Street side front compartment</item>
+        <item>Street side pullout drawer</item>
+        <item>Street side rear compartment</item>
+        <item>Curbside rear compartment</item>
+        <item>Curbside pass-through</item>
+        <item>Action area</item>
+        <item>Lifepak tray</item>
+        <item>Lower action area</item>
+        <item>Upper action area</item>
+        <item>Upper rear compartment</item>
+        <item>Upper bench compartment</item>
+        <item>Bench seat storage</item>
+        <item>Upper middle compartments</item>
+        <item>Bench seat front storage</item>
+        <item>Module area (patient compartment)</item>
+        <item>Airway bag</item>
+        <item>BLS drug kit (check expiration date)</item>
+    </string-array>
+
+</resources>
